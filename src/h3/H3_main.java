@@ -24,6 +24,7 @@ public class H3_main {
 		 * // zweite Zeile ist weiterhin voll mit 0
 		 */
 		
+		
 		int input = 88888;
 		
 		/*
